@@ -1,0 +1,13 @@
+{
+    "name": "phibbiyan/verifier",
+    "description": "This package verify if the user is authenticated and verify API data for NLT projects",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Phebion Njerere",
+            "email": "phebionnjerre@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
